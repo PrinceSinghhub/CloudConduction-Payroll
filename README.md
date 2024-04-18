@@ -3,7 +3,10 @@
 Welcome to CloudConduction Payroll! Our comprehensive Payroll system is designed to handle all types of transactions, providing real-time processing for both national and international transactions. With an array of features and functionalities, we've redefined payroll management.
 
 ## Video
-- Added Soon............................
+
+https://github.com/PrinceSinghhub/CloudConduction-Payroll/assets/71000042/5aa312dc-951d-48e2-808a-30931b647f55
+
+
 
 ## Features
 
